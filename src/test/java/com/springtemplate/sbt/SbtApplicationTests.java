@@ -1,4 +1,4 @@
-package com.sbt.springboottemplate;
+package com.springtemplate.sbt;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringboottemplateApplicationTests {
+public class SbtApplicationTests {
 
 	@Test
 	public void contextLoads() {

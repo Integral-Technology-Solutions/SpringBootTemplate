@@ -1,12 +1,12 @@
-package com.sbt.springboottemplate;
+package com.springtemplate.sbt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringboottemplateApplication {
+public class SbtApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringboottemplateApplication.class, args);
+		SpringApplication.run(SbtApplication.class, args);
 	}
 }
